@@ -1,0 +1,2 @@
+# Full-Stack-Food-Delivery-App-using-MERN-Stack-with-Stripe-Payment-Integration
+In this project, we will develop a comprehensive food ordering platform, incorporating both a user-facing website and an admin panel. The tech stack will include React JS for the frontend, Node JS and Express for the backend, and MongoDB for the database. We will also integrate the Stripe payment gateway to enable secure online transactions.
